@@ -19,8 +19,8 @@ This repository contains a sample C# application that demonstrates how to use th
 
 - Clone the Repository
 ```
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone [https://github.com/your-username/your-repository.git
+cd your-repository](https://github.com/raselahmedit09/ReadOffice365Mailbox.git)
 ```
 - Install Dependencies
 ```
